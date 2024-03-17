@@ -1,4 +1,4 @@
-# lastname_firstname_grade_the_exams
+# Automatic grading process
 
 ## Purpose
 The purpose of this program is to automate the grading process for multiple classes with thousands of students. By leveraging Python's functionalities, the program aims to reduce grading time significantly.
