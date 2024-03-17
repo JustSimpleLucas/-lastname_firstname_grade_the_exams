@@ -5,13 +5,13 @@ The purpose of this program is to automate the grading process for multiple clas
 
 ## Steps
 
-1. **File Handling**: The program should be able to open external text files as requested. Exception-handling mechanisms will be implemented to handle any errors that may occur during file operations.
+1. **File Handling**: Open external text files as requested with exception handling.
 
-2. **Data Validation**: For each line of the exam answers, the program will scan and identify valid data. It will provide corresponding reports for any invalid or missing data found in the input files.
+2. **Data Validity**: Scan each line of the exam answers to find valid data and provide corresponding reports.
 
-3. **Grading Process**: The program will grade each exam based on the provided rubric. It will apply various functions to evaluate the correctness of the answers and assign scores accordingly. Reports will be generated to display the grading results.
+3. **Grading Process**: Grade each exam based on the provided rubric and report.
 
-4. **Result File Creation**: Upon grading each exam, the program will create properly named result files to store the graded exam data. The filenames will be constructed based on the class number or other relevant identifiers.
+4. **Result File Creation**: Create a properly named result file.
 
 ## Documentation
 Download the data by the link https://drive.google.com/file/d/1OP35rvIGoKp-pboeA5m0jIfSw2GdlY5h/view
