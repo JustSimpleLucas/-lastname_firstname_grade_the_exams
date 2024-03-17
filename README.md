@@ -13,5 +13,5 @@ The purpose of this program is to automate the grading process for multiple clas
 
 4. **Result File Creation**: Create a properly named result file.
 
-## Documentation
+## Data
 Download the data by the link https://drive.google.com/file/d/1OP35rvIGoKp-pboeA5m0jIfSw2GdlY5h/view
