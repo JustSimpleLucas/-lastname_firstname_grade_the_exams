@@ -1,1 +1,1 @@
-# -lastname_firstname_grade_the_exams
+# lastname_firstname_grade_the_exams
