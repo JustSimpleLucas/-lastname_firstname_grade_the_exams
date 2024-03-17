@@ -3,7 +3,7 @@
 ## Purpose
 The purpose of this program is to automate the grading process for multiple classes with thousands of students. By leveraging Python's functionalities, the program aims to reduce grading time significantly.
 
-## Steps
+## Tasks
 
 1. **File Handling**: Open external text files as requested with exception handling.
 
